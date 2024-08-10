@@ -1,0 +1,25 @@
+header {
+    background: #d23e3e;
+}
+nav{
+    height: 70px;
+    line-height: 70px;
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+main{
+    height: calc(100vh - 70px - 80px);
+    background-color: #dacdcd;
+}
+section{
+    padding: 200px;
+}
+footer{
+    height: 80px;
+    background-color: #56b6ff;
+    display: grid;
+    place-content: center;
+    color: #fff;
+}
